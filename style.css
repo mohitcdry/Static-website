@@ -6,7 +6,7 @@
 .body{
     width: 100%;
     height: 100vh;
-    background: rgba(0,0,0,0.7) url(background.jpeg);
+    background: rgba(0,0,0,0.7) url(background.jpeg.jpg);
     background-blend-mode: darken;
     background-size: cover;
     background-position: center;
